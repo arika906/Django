@@ -1,4 +1,4 @@
-## Django Rest Api
+Django Rest Api
 
 ```diff
 
@@ -23,7 +23,7 @@
 +   pip install markdown
 +   pip install django-filter
 
-# Now you can start your work with django :)
+Now you can start your work with django :)
 
 + mkdir projectFolderName && cd projectFolderName
 + django-admin startproject projectName
