@@ -25,6 +25,8 @@ Django Rest Api
 
 Now you can start your work with django :)
 
+### source activate virtualenvironment
+
 + mkdir projectFolderName && cd projectFolderName
 + django-admin startproject projectName
 + python manage.py startapp appName
