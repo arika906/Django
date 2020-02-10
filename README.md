@@ -18,6 +18,8 @@ Django Rest Api
 
 ## download django framework and rest-api by using these command
 
+(if you do nat have pip then run -sudo easy_install pip)
+
 +   python -m pip install Django
 +   pip install djangorestframework
 +   pip install markdown
